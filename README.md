@@ -1,5 +1,7 @@
 This application offers a friendly interface to interact with the system through an ESP32-like microcontroller.
 
+![Image](https://github.com/LluisV/DeejOS/assets/100292815/4fda418f-5bb1-47b6-bbc3-9c1d5b64f4d1)
+
 In my case the system has:
 - 1 ESP32
 - 5 [normal potentiometers](https://es.aliexpress.com/item/1005006213044445.html?spm=a2g0o.order_list.order_list_main.34.567e194dwLe4gY&gatewayAdapt=glo2esp)
