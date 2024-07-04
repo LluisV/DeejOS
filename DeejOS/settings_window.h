@@ -9,7 +9,8 @@ class SettingsWindow : public Window {
 public:
   // Access the singleton instance
   static SettingsWindow& getInstance() {
-    static SettingsWindow instance; 
+    static SettingsWindow instance;
+    instance.setDirty();    
     return instance;
   }
 

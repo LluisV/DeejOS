@@ -8,6 +8,7 @@ public:
 
   static VolumeWindow& getInstance() {  
     static VolumeWindow instance;
+    instance.setDirty();  
     return instance;
   }
 
@@ -17,8 +18,11 @@ public:
     drawPotentiometers();
   }
 
+  // If the window is set as dirty, it will be completely re-drawn from scratch
   void setDirty() override {
+    // Here you should put the actions needed to be able to draw everything agin (reset to the inital state basically)
     initialized = false;
+    initMeter = true;
   }
 
 private:
