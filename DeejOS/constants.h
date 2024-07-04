@@ -28,8 +28,8 @@ float humidity = -1;
 bool muted = false;
 
 // WIFI
-const char* ssid     = "Livebox6-9CA0";
-const char* password = "3tuiywY762RR";
+const char* ssid     = "*******"; // REPLACE WITH YOUR WIFI SSID
+const char* password = "*******"; // REPLACE WITH YOUR WIFI PASSWORD
 
 // TIME
 const char* ntpServer = "pool.ntp.org";
