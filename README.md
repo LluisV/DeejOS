@@ -25,3 +25,8 @@ In my case the system has:
 # Troubleshooting
 
 - One user reported that the screen appeared blank, but this was solved by selecting the 'ESP32 Wrover Module' board from the Arduino IDE.
+
+# 3D Printable Models
+
+- [The case](https://cad.onshape.com/documents/befb4cefc8aa52996e2020ea/w/6cc10283c7151f4204e16538/e/aff931e3298d5f47d85bc136?renderMode=0&uiState=66980cd00ccabb550b9276ff)
+- [Slider grips](https://cad.onshape.com/documents/23d9c0773a4837f3e78bb4b3/w/3215c4032fce906298b19593/e/6e14c188ca74b6a55d9f865c?renderMode=0&uiState=66980cf962da612f619619bb)
